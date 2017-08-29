@@ -15,6 +15,7 @@ import com.ibm.commerce.exception.ECException;
 import com.ibm.commerce.search.beans.CatEntrySearchListDataBean;
 import com.ibm.commerce.server.ECConstants;
 import com.ibm.disthub2.impl.util.ArrayUtil;
+//Adding the code for testing by JP
 
 public class BkpDomtarAttributeSearchControllerCmdImpl extends
 		ControllerCommandImpl implements
